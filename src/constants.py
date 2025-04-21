@@ -64,3 +64,4 @@ PI_COIN_KYC_REQUIRED = True  # Whether KYC is required for transactions
 PI_COIN_COMPLIANCE_JURISDICTIONS = ["US", "EU", "UK"]  # Jurisdictions for compliance
 
 # Additional constants can be added here as needed
+
